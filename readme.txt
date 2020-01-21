@@ -3,3 +3,4 @@ Git has a mutable index called stage.
 will be staged and commited
 first
 second
+creating a new branch is quick?????
