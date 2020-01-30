@@ -1,0 +1,2 @@
+强制禁用快速合并，git merge --no-ff -m "no fast forward" develop
+不使用快速合并，会新建一个提交节点。

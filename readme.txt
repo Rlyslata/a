@@ -3,3 +3,6 @@ Git has a mutable index called stage.
 will be staged and commited
 first
 second
+added in develop
+add in develop
+fixed bug
